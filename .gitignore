@@ -1,4 +1,5 @@
+Thumbs.db
 .DS_Store
-.idea
-.vscode
-.vs
+/.idea
+/.vscode
+/.vs
